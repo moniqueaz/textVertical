@@ -1,4 +1,4 @@
 # textVertical
 Texto Vertical com Flex
 
-https://jsfiddle.net/moniqueaz/0n6cmcp2/4/
+https://jsfiddle.net/moniqueaz/tuzkyfsx/1/
